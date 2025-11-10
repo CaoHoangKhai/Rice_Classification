@@ -57,8 +57,4 @@ The application provides prediction results along with probability scores for ea
    python app.py
    ```
 
-Open the browser and navigate to http://localhost:5000 to access the application.
 
-🔗 Repository
-
-https://github.com/CaoHoangKhai/Rice_Classification.git
