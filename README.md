@@ -46,3 +46,18 @@ The application provides prediction results along with probability scores for ea
 1. Clone the repository:  
    ```bash
    git clone https://github.com/CaoHoangKhai/Rice_Classification.git
+   ```
+2. Install required dependencies:
+   ```bash
+pip install -r requirements.txt
+   ```
+3. Run the Flask application:
+
+python app.py
+
+
+Open the browser and navigate to http://localhost:5000 to access the application.
+
+🔗 Repository
+
+https://github.com/CaoHoangKhai/Rice_Classification.git
