@@ -49,12 +49,13 @@ The application provides prediction results along with probability scores for ea
    ```
 2. Install required dependencies:
    ```bash
-pip install -r requirements.txt
+   pip install -r requirements.txt
    ```
 3. Run the Flask application:
 
-python app.py
-
+   ```bash
+   python app.py
+   ```
 
 Open the browser and navigate to http://localhost:5000 to access the application.
 
