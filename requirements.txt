@@ -5,3 +5,4 @@ matplotlib==3.5.2
 scikit-learn==1.5.2
 seaborn==0.11.2
 werkzeug==2.1.2
+gunicorn==21.2.0
