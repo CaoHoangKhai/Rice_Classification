@@ -57,7 +57,7 @@ The application provides prediction results along with probability scores for ea
    ```
 4. Run the Flask application:
 
-   ```bash
+   ``` cpp
    python app.py
    ```
 5. Open your browser and go to:
