@@ -2,7 +2,6 @@
 
 **Project Duration:** 19/09/2024 – 28/11/2024  
 **Team Members:** 2  
-**Repository:** [https://github.com/CaoHoangKhai/Rice_Classification.git](https://github.com/CaoHoangKhai/Rice_Classification.git)
 
 ---
 
