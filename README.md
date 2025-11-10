@@ -1,2 +1,48 @@
-# Data_Mining
-Hệ thống dự đoán loại hoặc chất lượng gạo được xây dựng nhằm hỗ trợ người dùng xác định nhanh chóng loại gạo dựa trên các đặc tính hình học của từng hạt gạo. Người dùng sẽ nhập vào các thông số kỹ thuật của hạt gạo bao gồm chu vi (Perimeter), chiều dài trục chính (Major Axis Length), chiều dài trục phụ (Minor Axis Length), độ lệch tâm (Eccentricity), diện tích bao lồi (Convex Area) và tỷ lệ diện tích (Extent). Dựa trên những thông số này, hệ thống sẽ áp dụng một trong các thuật toán dự đoán do người dùng lựa chọn để đưa ra kết quả. Các thuật toán được tích hợp trong hệ thống bao gồm Decision Tree, Logistic Regression, Bagging Classifier, Random Forest và Naive Bayes. Sau khi người dùng nhập dữ liệu và chọn thuật toán, hệ thống sẽ xử lý thông tin, áp dụng mô hình đã được huấn luyện và hiển thị kết quả dự đoán loại hoặc chất lượng của hạt gạo. Hệ thống này giúp tiết kiệm thời gian, công sức kiểm tra và có thể ứng dụng trong các nhà máy sản xuất, cơ sở phân loại hoặc kiểm định gạo.
+# Rice Classification on Rice Dataset
+
+**Project Duration:** 19/09/2024 – 28/11/2024  
+**Team Members:** 2  
+**Repository:** [https://github.com/CaoHoangKhai/Rice_Classification.git](https://github.com/CaoHoangKhai/Rice_Classification.git)
+
+---
+
+## 📖 Description
+This project is a **machine learning application** designed to classify rice grains based on their physical characteristics. The system allows users to input specific measurements of each rice grain, including:
+
+- **Perimeter**  
+- **Major Axis Length**  
+- **Minor Axis Length**  
+- **Eccentricity**  
+- **Convex Area**  
+- **Extent**  
+
+Based on these features, the system applies one of several machine learning algorithms chosen by the user to predict the **type or quality of the rice grain**. Supported algorithms include:
+
+- Decision Tree  
+- Logistic Regression  
+- Bagging Classifier  
+- Random Forest  
+- Naive Bayes  
+
+The application provides prediction results along with probability scores for each class. It is designed to save time and effort for rice inspection and classification and can be applied in production facilities, sorting centers, or quality control labs.
+
+---
+
+## 🛠 Technologies Used
+- **Python** – for data processing, model training, and predictions  
+- **Flask** – for web integration and user interface  
+
+---
+
+## ⚡ Features
+- Manual input of rice grain features  
+- Selection of different machine learning algorithms for predictions  
+- Display of predicted class along with probability scores  
+- Comparison of results from multiple models  
+
+---
+
+## 📌 How to Run
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/CaoHoangKhai/Rice_Classification.git
