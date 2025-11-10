@@ -57,10 +57,10 @@ The application provides prediction results along with probability scores for ea
    ```
 4. Run the Flask application:
 
-   ``` cpp
+   ``` bash
    python app.py
    ```
 5. Open your browser and go to:
-   ``` bash
+   ``` cpp
    http://127.0.0.1:5000/
    ```
