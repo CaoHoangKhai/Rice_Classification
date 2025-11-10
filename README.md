@@ -64,3 +64,9 @@ The application provides prediction results along with probability scores for ea
    ``` cpp
    http://127.0.0.1:5000/
    ```
+---
+
+## ⚠️ Limitations
+- Currently, the system **does not support batch input from Excel or CSV files**. Users must enter rice grain measurements manually for each sample.
+
+
