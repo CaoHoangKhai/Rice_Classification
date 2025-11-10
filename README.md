@@ -61,6 +61,6 @@ The application provides prediction results along with probability scores for ea
    python app.py
    ```
 5. Open your browser and go to:
-   ``` cpp
+   ``` bash
    http://127.0.0.1:5000/
    ```
